@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ignacio Martinez Lombardero
 
-**AI-Powered Software Engineer** — passionate about building intelligent systems that are fast, practical, and human-focused.
+**Software Engineer** — passionate about building intelligent systems that are fast, practical, and human-focused.
 
 - 🧠 I specialize in prompt engineering, image generation, agentic systems, and AI-first product design  
 - 🛠 I work across the full stack — from idea to deployment, covering web, mobile, and ML pipelines  
